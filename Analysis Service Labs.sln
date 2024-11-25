@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Analysis Service Labs", "Analysis Service Labs.dwproj", "{FC58CD9F-43A8-4DE9-9ED2-FF0A69F1267A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC58CD9F-43A8-4DE9-9ED2-FF0A69F1267A}.Development|Default.ActiveCfg = Development
+		{FC58CD9F-43A8-4DE9-9ED2-FF0A69F1267A}.Development|Default.Build.0 = Development
+		{FC58CD9F-43A8-4DE9-9ED2-FF0A69F1267A}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BE9919E-F7DB-4A4B-8938-B71F6E43D50E}
+	EndGlobalSection
+EndGlobal
